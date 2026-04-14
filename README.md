@@ -38,3 +38,8 @@ A Java desktop application that simulates air traffic between airports using a S
 
 Open the project in NetBeans (or any Java IDE), build it and run `Main.java`.
 
+
+
+## About
+Built as a university project for the Object-Oriented Programming 2 course at the School of Electrical Engineering, University of Belgrade.
+

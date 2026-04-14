@@ -1,4 +1,4 @@
-\# Flight Traffic Simulation
+# Flight Traffic Simulation
 
 
 
@@ -6,35 +6,35 @@ A Java desktop application that simulates air traffic between airports using a S
 
 
 
-\## Features
+## Features
 
-\- Add airports and flights through a graphical interface
+- Add airports and flights through a graphical interface
 
-\- Airports are displayed on a 2D coordinate map
+- Airports are displayed on a 2D coordinate map
 
-\- Flights are animated in real time (1 second = 10 simulated minutes)
+- Flights are animated in real time (1 second = 10 simulated minutes)
 
-\- Departure queue system — max one plane per 10 minutes per airport
+- Departure queue system — max one plane per 10 minutes per airport
 
-\- Pause, resume and reset the simulation at any time
+- Pause, resume and reset the simulation at any time
 
-\- Save and load data from CSV files
+- Save and load data from CSV files
 
-\- Auto-close dialog after 60 seconds of inactivity
-
-
-
-\## Technologies
-
-\- Java (OOP, multithreading)
-
-\- Java Swing
-
-\- CSV file I/O
+- Auto-close dialog after 60 seconds of inactivity
 
 
 
-\## How to run
+## Technologies
+
+- Java (OOP, multithreading)
+
+- Java Swing
+
+- CSV file I/O
+
+
+
+## How to run
 
 Open the project in NetBeans (or any Java IDE), build it and run `Main.java`.
 
